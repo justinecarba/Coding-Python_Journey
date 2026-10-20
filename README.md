@@ -5,3 +5,4 @@ Build my skills every day!!
 • HTML
 • JavaScript
 • CSS
+• Jupyter
